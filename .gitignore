@@ -8,3 +8,8 @@ mods
 # IntelliJ
 .idea
 *.iml
+
+# gradle
+.gradle
+build
+gradle
