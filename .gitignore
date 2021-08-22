@@ -1,0 +1,10 @@
+*.tmp
+**/*.class
+out
+
+# module output directory
+mods
+
+# IntelliJ
+.idea
+*.iml
